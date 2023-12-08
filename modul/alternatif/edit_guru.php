@@ -77,7 +77,7 @@ $row = mysqli_fetch_assoc($query);
 								<label class="col-sm-3 control-label">&nbsp;</label>
 								<div class="col-sm-12">
 									<input type="submit" name="ubah" class="btn btn-sm btn-primary" value="Ubah Data">
-									<a href="?module=data_alternatif" class="btn btn-sm btn-danger">Batal</a>
+									<a href="?module=data_guru" class="btn btn-sm btn-danger">Batal</a>
 								</div>
 							</div>
 						</div>
