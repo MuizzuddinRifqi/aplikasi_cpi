@@ -80,7 +80,7 @@ $row = mysqli_fetch_assoc($query);
 									<input type="submit" name="ubah" class="btn btn-success" value="Ubah Data">
 									<a href="?module=data_guru" class="btn btn-danger">Batal</a>
 								</div>
-							</div>
+							</div>			
 						</div>
 						</form>
 					</div>	
