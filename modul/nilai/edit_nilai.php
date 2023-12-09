@@ -68,8 +68,8 @@ $row = mysqli_fetch_assoc($query);
 							<div class="form-group">
 								<label class="col-sm-3 control-label">&nbsp;</label>
 								<div class="col-sm-12">
-									<input type="submit" name="ubah" class="btn btn-sm btn-primary" value="simpan">
-									<a href="?module=data_nilai" class="btn btn-sm btn-danger">Batal</a>
+									<input type="submit" name="ubah" class="btn btn-success" value="Simpan">
+									<a href="?module=data_nilai" class="btn btn-danger">Batal</a>
 								</div>
 							</div>
 						</div>
