@@ -18,6 +18,7 @@ $row = mysqli_fetch_assoc($query);
 		</div><!-- /.row -->
 	</div><!-- /.container-fluid -->
 </div>
+
 <section class="content">
 	<div class="container-fluid">
 		<div class="row">
@@ -48,6 +49,7 @@ $row = mysqli_fetch_assoc($query);
 						<h3 class="card-title">&nbsp;</h3>
 					</div>
 					<form class="form-horizontal" action="" method="post">
+
 						<div class="card-body">
 							<div class="form-group">
 								<label class="col-sm-3 control-label">ID kriteria</label>
@@ -55,12 +57,14 @@ $row = mysqli_fetch_assoc($query);
 									<input type="text" name="id_kriteria" value="<?php echo $row['id_kriteria']; ?>" class="form-control" readonly="readonly">
 								</div>
 							</div>
+
 							<div class="form-group">
 								<label class="col-sm-3 control-label">Nama kriteria</label>
 								<div class="col-sm-12">
 									<input type="text" name="nama_kriteria" value="<?php echo $row['nm_kriteria']; ?>" class="form-control" required>
 								</div>
 							</div>
+
 							<div class="form-group">
 								<label class="col-sm-3 control-label">Jenis Kriteria</label>
 								<div class="col-sm-12">
@@ -71,12 +75,14 @@ $row = mysqli_fetch_assoc($query);
 									</select>
 								</div>
 							</div>
+
 							<div class="form-group">
 								<label class="col-sm-3 control-label">Bobot kriteria</label>
 								<div class="col-sm-12">
 									<input type="text" name="bobot" value="<?php echo $row['bobot']; ?>" class="form-control" required>
 								</div>
 							</div>
+							
 							<div class="form-group">
 								<label class="col-sm-3 control-label">&nbsp;</label>
 								<div class="col-sm-12">
