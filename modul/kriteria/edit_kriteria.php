@@ -69,7 +69,7 @@ $row = mysqli_fetch_assoc($query);
 								<label class="col-sm-3 control-label">Jenis Kriteria</label>
 								<div class="col-sm-12">
 									<select name="tren" class="form-control" required>
-										<option value="<?php echo $row['tren']; ?>"><?php echo $row['tren']; ?></option>
+										<!-- <option value="<?php echo $row['tren']; ?>"><?php echo $row['tren']; ?></option> -->
 										<option value="Positif">Positif</option>
 										<option value="Negatif">Negatif</option>
 									</select>
