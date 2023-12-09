@@ -81,7 +81,7 @@
 							<label class="col-sm-3 control-label">&nbsp;</label>
 							<div class="col-sm-12">
 								<a href="?module=data_guru" class="btn btn-primary">Kembali</a>
-								<input type="submit" name="add" class="btn btn-success" value="simpan">
+								<input type="submit" name="add" class="btn btn-success" value="Simpan">
 								<input type="reset" class="btn btn-danger" value="Batal">
 							</div>
 						</div>
