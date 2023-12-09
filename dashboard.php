@@ -12,7 +12,7 @@ include "koneksi.php";
   <!-- Tell the browser to be responsive to screen width -->
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- Font Awesome -->
-  <link rel="shortcut icon" href="images/download.png" />
+  <link rel="shortcut icon" href="images/aliyamahika.png" />
   <link rel="stylesheet" href="plugins/fontawesome-free/css/all.min.css">
   <!-- Ionicons -->
   <link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
@@ -69,9 +69,9 @@ include "koneksi.php";
     <aside class="main-sidebar sidebar-dark-primary elevation-4">
       <!-- Brand Logo -->
       <a href="?module=home" class="brand-link">
-        <img src="images/logo.png" alt="AdminLTE Logo" width="70px">
+        <img src="images/aliyamahika.png" alt="AdminLTE Logo" width="60px">
         <span class="brand-text font-weight-light"></span>
-        <small>SMP ABC-XYZ</small><br>
+        <small>ALIYAMAHIKA</small><br>
         <small>Penentuan Kinerja Guru Terbaik</small>
       </a>
 
@@ -90,6 +90,7 @@ include "koneksi.php";
                 <i class="nav-icon fas fa-address-book"></i>
                 <p>Data Guru</p>
               </a>
+
             <li class="nav-item">
               <a href="?module=data_kriteria" class="nav-link">
                 <i class="nav-icon fas fa-address-book"></i>
@@ -247,22 +248,22 @@ include "koneksi.php";
 
                     <div class="card-body">
                       <div class="tab-content">
-                        <h2 align="center">PROFIL SMP ABC-XYZ</h2>
+                        <h2 align="center"><b>PROFIL ALIYAMAHIKA</b></h2>
                         <hr>
                         <p>SEJARAH SEKOLAH</p>
                         <p>
                           <b>VISI</b><br>
-                          INI VISI
+                          Terwujudnya Siswa Madrasah Aliyah Manba’ul Hikam yang Beriman, Berilmu, Bermoral, Berakrya, Cinta Negara dan Lingkungan
                         </p>
                         <p>
                           <b>MISI</b>
-                        <ul>
-                          <li>Misi 1</li>
-                          <li>Misi 2</li>
-                          <li>Misi 3</li>
-                          <li>Misi 4</li>
-                          <li>Misi 5</li>
-                        </ul>
+                        <ol>
+                          <li>Menjadikan Siswa yang Memiliki Akidah yang Kuat dan Benar.</li>
+                          <li>Menjadikan Siswa Memiliki Kemampuan Intelektual, Ilmu Pengetahuan dan Keterampilan yang Memadai.</li>
+                          <li>Menciptakan Siswa yang memiliki Akhlak Mulia, Kepedulian Terhadap Nilai-Nilai Agama dan Sosial.</li>
+                          <li>Mengembangkan Kreativitas siswa sehinga mampu menghasilkan sebuah Karya yang Kreatif dan Inovatif</li>
+                          <li>Mengembangkan sikap cinta kepada bangsa dan negara</li>
+                        </ol>
                         </p>
 
                       </div>
