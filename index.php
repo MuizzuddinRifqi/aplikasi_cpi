@@ -23,7 +23,7 @@
 <body class="hold-transition login-page">
   <div class="login-box">
     <div class="login-logo">
-      <img src="images/aliyamahika.png" alt="AdminLTE Logo" width="70px"> <a href="index2.html"><b>ALIYAMAHIKA</b></a>
+      <img src="images/aliyamahika.png" alt="AdminLTE Logo" width="70px"> <a target="_blank" href="http://aliyamahika.com/"><b>ALIYAMAHIKA</b></a>
     </div>
     <center>SPK CPI Penentuan Kinerja Guru Terbaik</center><br>
     <!-- /.login-logo -->

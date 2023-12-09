@@ -37,7 +37,7 @@
 
           <div class="card">
             <div class="card-header">
-              <h3 class="card-title"> <a href="?module=input_kriteria">Tambah Data</a></h3>
+              <a href="?module=input_kriteria" class="btn btn-primary">Tambah Data</a>
             </div>
             <!-- /.card-header -->
             <div class="card-body">
