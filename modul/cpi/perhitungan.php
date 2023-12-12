@@ -46,12 +46,12 @@
 								<label class="col-sm-3 control-label">Periode</label>
 								<div class="col-sm-12">
 									<select name="periode" id="periode" class="form-control" required>
-										<option value="">Pilih</option>
+										<!-- <option value=""></option> -->
 										<option value="2023">2023</option>
 									</select>
 								</div>
 							</div>
-							
+
 							<div class="form-group">
 								<div class="col-sm-12">
 									<input type="button" onclick="hitungData()" name="cetak_rank" class="btn btn-primary" value="Hitung">
