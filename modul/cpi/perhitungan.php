@@ -47,21 +47,17 @@
 								<div class="col-sm-12">
 									<select name="periode" id="periode" class="form-control" required>
 										<option value="">Pilih</option>
-										<option value="2021">2021</option>
-										<option value="2022">2022</option>
 										<option value="2023">2023</option>
-										<option value="2024">2024</option>
 									</select>
 								</div>
 							</div>
+							
 							<div class="form-group">
 								<div class="col-sm-12">
 									<input type="button" onclick="hitungData()" name="cetak_rank" class="btn btn-primary" value="Hitung">
 									<input type="button" onClick="perhitungan()" name="cetak_rank" class="btn btn-primary" value="Tampil">
 								</div>
 							</div>
-
-						
 					</div>	
 			</div>
 		</div>
