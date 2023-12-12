@@ -49,7 +49,7 @@ if (isset($_GET['aksi']) == 'delete') {
 								<th>Nama Guru</th>
 								<th>Jenis Kelamin</th>
 								<th>Alamat</th>
-								<th>aksi</th>
+								<th>Aksi</th>
 							</tr>
 						</thead>
 						<tbody>
@@ -82,15 +82,6 @@ if (isset($_GET['aksi']) == 'delete') {
 							}
 							?>
 						</tbody>
-						<!--
-				<tfoot>
-					<tr>
-						<th>No</th>
-						<th>Nama Alternatif</th>
-						<th>aksi</th>
-					</tr>
-				</tfoot>
-			-->
 					</table>
 				</div>
 				<!-- /.card-body -->
@@ -102,5 +93,3 @@ if (isset($_GET['aksi']) == 'delete') {
 	<!-- /.row -->
 </section>
 <!-- /.content --
-
-	
