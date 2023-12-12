@@ -49,7 +49,7 @@
 					<th>Nama Kriteria</th>
 					<th>Jenis Kriteria</th>
 					<th>Bobot Kriteria (%)</th>
-					<th>aksi</th>
+					<th>Aksi</th>
 				</tr>
 			</thead>
 			<tbody>
@@ -88,6 +88,4 @@
       </div>
       <!-- /.row -->
     </section>
-    <!-- /.content --
-
-	
+    <!-- /.content --	
