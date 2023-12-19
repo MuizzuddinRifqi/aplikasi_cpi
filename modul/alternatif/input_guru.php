@@ -28,7 +28,7 @@
 
 
 					$insert = mysqli_query($koneksi, "INSERT INTO guru(id_guru,nm_guru,jenkel,alamat)VALUES('$id_guru','$nm_guru','$jenkel','$alamat')") or die(mysqli_error($koneksi));
-					if ($insert) {
+					if ($insert) {						
 						echo '<div class="alert alert-success alert-dismissable"><button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>Data Alternatif Berhasil Di Simpan.</div>';
 					} else {
 						echo '<div class="alert alert-danger alert-dismissable"><button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>Ups, Alternatif Gagal Di simpan ! </div>';
