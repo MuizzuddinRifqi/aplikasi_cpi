@@ -55,7 +55,7 @@ $periode = $_GET["periode"];
 						<label class="col-sm-3 control-label">Periode</label>
 						<div class="col-sm-12">
 							<select name="periode" id="periode" class="form-control" required>
-								<option value="">Pilih</option>
+								<!-- <option value="">Pilih</option> -->
 								<option value="2023">2023</option>
 							</select>
 						</div>
