@@ -50,7 +50,7 @@
 					<th>Kriteria</th>
 					<th>Jenis Kriteria</th>
 					<th>Nilai</th>
-					<th>aksi</th>
+					<th>Aksi</th>
 				</tr>
 			</thead>
 			<tbody>
@@ -92,5 +92,3 @@
       <!-- /.row -->
     </section>
     <!-- /.content --
-
-	

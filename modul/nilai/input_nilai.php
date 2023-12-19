@@ -50,6 +50,7 @@ echo $datanilai;
 		})
 	}
 </script>
+
 <script>
 	function getDataGuru() {
 		var id = document.getElementById("guru").value;
@@ -67,9 +68,11 @@ echo $datanilai;
 		})
 	}
 </script>
+
 <script>
 	document.cookie = "nilai=[]";
 </script>
+
 <script>
 	function insertDataNilai() {
 		var id_kinerja = $("#id_kinerja").val();
@@ -108,6 +111,7 @@ echo $datanilai;
 		}
 	}
 </script>
+
 <script>
 	function insertDataKinerja() {
 		var id_kinerja = $("#id_kinerja").val();
@@ -134,9 +138,9 @@ echo $datanilai;
 				}
 			}
 		})
-
-	}
+	}	
 </script>
+
 <div class="content-header">
 	<div class="container-fluid">
 		<div class="row mb-2">
@@ -170,7 +174,6 @@ echo $datanilai;
 						echo '<div class="alert alert-danger alert-dismissable"><button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>Ups, Nilai Gagal Di simpan ! </div>';
 					}
 				}
-
 				?>
 
 				<form class="form-horizontal" action="" method="post">
@@ -261,8 +264,8 @@ echo $datanilai;
 								</div>
 								<div class="form-group">
 									<div class="col-sm-12">
-										<input type="button" onclick="insertDataNilai()" name="Add Nilai" class="btn btn-sm btn-primary" value="Add Nilai">
-										<a href="?module=data_nilai" class="btn btn-sm btn-danger">Batal</a>
+										<input type="button" onclick="insertDataNilai()" name="Add Nilai" class="btn btn-success" value="Add Nilai">
+										<a href="?module=data_nilai" class="btn btn-danger">Batal</a>
 									</div>
 								</div>
 
@@ -313,8 +316,7 @@ echo $datanilai;
 
 					<div class="form-group">
 						<div class="col-sm-12">
-							<input type="button" onclick="insertDataKinerja()" name="Tambah Nilai" class="btn btn-primary" value="Simpan">
-							
+							<input type="button" onclick="insertDataKinerja()" name="Tambah Nilai" class="btn btn-success" value="Simpan">
 							<a href="?module=data_nilai" class="btn btn-danger">Batal</a>
 						</div>
 					</div>
