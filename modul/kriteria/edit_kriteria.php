@@ -90,7 +90,7 @@ $row = mysqli_fetch_assoc($query);
 									<input type="submit" name="ubah" class="btn btn-success" value="Simpan">
 									<a href="?module=data_kriteria" class="btn btn-danger">Batal</a>
 								</div>
-							</div>
+							</div>							
 						</div>
 					</form>
 				</div>
