@@ -75,8 +75,9 @@
 							<div class="form-group">
 								<label class="col-sm-3 control-label">&nbsp;</label>
 								<div class="col-sm-12">
-									<input type="submit" name="add" class="btn btn-sm btn-primary" value="simpan">
-									<a href="?module=data_kriteria_salinan_putusan" class="btn btn-sm btn-danger">Batal</a>
+									<a href="?module=data_kriteria" class="btn btn-primary">Kembali</a>
+									<input type="submit" name="add" class="btn btn-success" value="Simpan">
+									<a href="?module=data_kriteria_salinan_putusan" class="btn btn-danger">Batal</a>
 								</div>
 							</div>
 
