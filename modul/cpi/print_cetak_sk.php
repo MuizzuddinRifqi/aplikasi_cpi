@@ -77,7 +77,7 @@ $datask = mysqli_fetch_assoc($querysk);
             </tr>
         </table>
         <p style="margin-top: 30px">
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Telah terpilih sebagai Guru Dengan Kinerja Terbaik pada periode tahun <?php echo $datask["periode"]; ?> di SMP ABC-XYZ.
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Telah terpilih sebagai Guru Dengan Kinerja Terbaik pada periode tahun <?php echo $datask["periode"]; ?> di ALIYAMAHIKA.
         </p>
         <div style="float: right; margin-right: 30px; text-align: center;">
             Sidoarjo, <?php echo date("d F Y"); ?>
