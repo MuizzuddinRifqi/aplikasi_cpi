@@ -1,23 +1,21 @@
 # Penentuan Kinerja Guru Terbaik ALIYAMAHIKA - Metode CPI (Composite Performance Index)
 
-![Logo Website](images\aliyamahika.png)
 
-Deskripsi singkat tentang website ini. Jelaskan apa yang membuatnya unik atau berguna.
 
 ## Daftar Isi
 - [Fitur Utama](#fitur-utama)
 - [Cara Penggunaan](#cara-penggunaan)
-- [Tangkapan Layar](#tangkapan-layar)
+- [Tampilan Website](#tampilan-website)
 - [Kontribusi](#kontribusi)
-- [Lisensi](#lisensi)
 
 ## Fitur Utama
 
-Deskripsi singkat tentang fitur-fitur utama yang dimiliki oleh website ini.
+Fitur-fitur utama yang ada pada website ini.
 
-1. **Fitur 1:** Penjelasan singkat tentang fitur pertama.
-2. **Fitur 2:** Penjelasan singkat tentang fitur kedua.
-3. **Fitur 3:** Penjelasan singkat tentang fitur ketiga.
+1. **Fitur 1:** CRUD Data Guru (Alternatif).
+2. **Fitur 2:** CRUD Data Kriteria.
+3. **Fitur 3:** CRUD Data Nilai.
+4. **Fitur 4:** Cetak Surat Keputusan.
 
 ## Cara Penggunaan
 
@@ -27,23 +25,17 @@ Cara penggunaan website ini dapat dijelaskan dengan langkah-langkah sederhana.
 2. Langkah 2: [Deskripsi langkah kedua]
 3. Langkah 3: [Deskripsi langkah ketiga]
 
-## Tangkapan Layar
+## Tampilan Website
+<p> Berikut adalah beberapa screenshot dari tampilan website ini.</p>
 
-![Tangkapan Layar 1](tangkapan_layar_1.png)
-![Tangkapan Layar 2](tangkapan_layar_2.png)
-![Tangkapan Layar 3](tangkapan_layar_3.png)
-
-Berikut adalah beberapa tangkapan layar dari website ini. Anda dapat melihat tampilan antarmuka dan fungsionalitas yang tersedia.
+<img src="images\Screenshot_1.png" alt="Tangkapan Layar 1">
+<img src="images\Screenshot_2.png" alt="Tangkapan Layar 2">
+<img src="images\Screenshot_3.png" alt="Tangkapan Layar 3">
 
 ## Kontribusi
 
 Jika Anda ingin berkontribusi pada pengembangan website ini, kami sangat menghargai setiap bantuan. Silakan lihat [Panduan Kontribusi](CONTRIBUTING.md) untuk informasi lebih lanjut.
 
-## Lisensi
-
-Distribusi website ini diatur oleh lisensi [Nama Lisensi]. Lihat [file lisensi](LICENSE) untuk detail lengkap.
-
 ---
-
-© Tahun Pembuatan. Dibuat oleh [Nama Pengembang] | Logo oleh [Nama Desainer Logo]
+© 2023
 
